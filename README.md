@@ -1,5 +1,6 @@
-#Welcome to KEKChain !
-#What is KeK Chain
+Welcome to KEKChain !
+
+What is KeK Chain
 A cryptocurrency system that supports smart contracts without the scalability and privacy limitations of earlier systems like Ethereum. KEK, like Ethereum, allows parties to create smart contracts using code to specify the behavior of the virtual machine (VM) that executes the contract's function.Loop Network strives to solve scalability and usability issues, without compromising decentralization, and leverages the existing developer community and ecosystem. It is an off-chain/external scaling solution for existing platforms to provide scalability and superior user experience for DApps/user features.
 #What is KEK Chain?
 KEK Chain brings EVM-compatible programmability and native cross-chain communication with KEK Chain using an innovative consensus of Proof of Stake and Authority(PoSA)
